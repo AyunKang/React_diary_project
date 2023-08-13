@@ -1,3 +1,10 @@
+# 감정 일기장
+오늘 하루의 감정을 기록하는 일기장.
+아래 링크에서 접속 가능합니다.
+
+https://ayun-react-project-diary.web.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
